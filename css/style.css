@@ -1,0 +1,48 @@
+
+    #heading2 {
+        color: hotpink;
+        border: 2px solid blueviolet;
+        background-color: darkgray;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 20px;
+        margin-right: 20px
+    }
+    #heading1 {
+        color: darkslateblue;
+        border: 2px solid blueviolet;
+        background-color: antiquewhite;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 20px;
+        margin-right: 20px
+    }
+    #heading3 {
+        color: crimson;
+        border: 2px solid blueviolet;
+        background-color: cornsilk;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 20px;
+        margin-right: 20px
+    }
+    #heading4 {
+        color: darkgreen;
+        border: 2px solid blueviolet;
+        background-color: ghostwhite;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 20px;
+        margin-right: 20px
+    }
+    #heading5 {
+        color: deepskyblue;
+        border: 2px solid rgb(94, 81, 107);
+        background-color: honeydew;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 20px;
+        margin-right: 20px
+
+    }
+    

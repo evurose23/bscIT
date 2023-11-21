@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/71v75RAesYL.jpg");
+    background-size: cover;
+}
+header {
+    background-color: black;
+    
+}
+.navigation {
+    float: right;
+    margin-top: 20px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+}
+/* aside */
+.side{
+    color: cornsilk;
+    font-family: sans-serif;
+    margin: 150px;
+    float: left;
+}
+.side h3{
+    margin-bottom: 20px;
+}
+.side li {
+     padding: 3px; 
+     list-style: decimal;       
+}
+/* aside */
+
+
+/* form */
+.login{
+    border: 1px solid black;
+    background-color: bisque;
+    float: right;
+    margin-top: -15px;
+}
+/* form */
+
